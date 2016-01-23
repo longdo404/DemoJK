@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:   
+  2016-01-23 08:09:29   
+                        
+ Summary:               
+  Classes: 100.00% (1/1)
+  Methods: 100.00% (1/1)
+  Lines:   100.00% (7/7)
+
+WordWrap
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
